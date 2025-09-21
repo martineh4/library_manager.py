@@ -22,3 +22,6 @@ Allows users to:
 3. Open a terminal in the project folder
 4. Run the program
 5. Use the menu by inputting a number between 1-4 based on the action you would like to perform
+
+## Code Walkthrough
+https://www.loom.com/share/e0fb18b972ba4ecfb1a1f1c3d9188bbe
