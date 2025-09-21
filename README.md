@@ -18,7 +18,7 @@ Allows users to:
 
 ## How to Run
 1. Ensure the latest version of Python is installed on your device
-2. Download all included files and save them in
+2. Download all included files and save them in the same folder
 3. Open a terminal in the project folder
 4. Run the program
 5. Use the menu by inputting a number between 1-4 based on the action you would like to perform
